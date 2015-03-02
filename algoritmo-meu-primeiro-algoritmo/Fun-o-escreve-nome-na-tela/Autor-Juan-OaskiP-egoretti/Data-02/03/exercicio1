@@ -1,0 +1,10 @@
+algoritmo "meu primeiro algoritmo"
+// Função : escreve nome na tela
+// Autor :   Juan OaskiP egoretti
+// Data : 02/03/2015
+var
+nome : caracter
+inicio
+nome <- "Juan"
+escreva (nome)
+fimalgoritmo
